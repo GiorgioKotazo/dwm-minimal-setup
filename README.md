@@ -1,0 +1,1 @@
+# dwm-minimal-setup
